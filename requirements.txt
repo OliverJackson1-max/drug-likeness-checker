@@ -1,0 +1,2 @@
+streamlit>=1.38
+rdkit>=2024.3.5
