@@ -1,5 +1,7 @@
 # Drug-Likeness Checker
 
+live demo: https://drug-likeness-checker-py.streamlit.app/
+
 A tool that screens small molecules for oral drug-likeness using
 **Lipinski's Rule of Five** and **Veber's Rules** — early-stage
 filters commonly used in pharmaceutical R&D to flag promising drug
